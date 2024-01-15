@@ -1,0 +1,19 @@
+20231004	14:58:36	8b24c399-3a09-4774-8804-bb8552487007	TypeError: fsPromises.readFil is not a function
+20231006	12:54:07	d329d702-ba20-4dbe-ac99-242232c4931e	Error: Not allowed by CORS
+20231007	10:24:30	115bdce7-d750-4323-aaa1-f9e6366b9807	TypeError: res.json(...).put is not a function
+20231007	10:28:42	720f7b8a-7e5c-4f0c-a8cb-6afd13b73664	TypeError: res.json(...).put is not a function
+20231007	10:44:38	5251d89d-9d73-4881-8f3e-2efd12755c8c	TypeError: res.json(...).put is not a function
+20231007	10:48:33	f1a96dad-bcb4-4088-82d0-042f298ad1bd	TypeError: res.json(...).put is not a function
+20231007	21:01:58	53585b60-5147-473c-a2a1-be78bcf3df07	TypeError: Cannot read properties of undefined (reading 'id')
+20231007	21:03:04	09f4c863-007b-4140-bf64-b6581eaa65e9	TypeError: Cannot read properties of undefined (reading 'id')
+20231007	21:03:14	cbedf880-99e7-4530-a5ec-2b714237f173	TypeError: Cannot read properties of undefined (reading 'id')
+20231007	21:03:20	3950ac9b-4d58-4998-91d0-f8ad340091dd	TypeError: Cannot read properties of undefined (reading 'id')
+20231007	21:23:40	a21bd4f1-bc94-415e-a3a1-7229ea9a350e	TypeError: Cannot read properties of undefined (reading 'id')
+20231007	21:23:58	19e7055c-16ed-4288-93b3-324bbbee0737	TypeError: Cannot read properties of undefined (reading 'id')
+20231011	10:22:10	95fc8f5e-4292-41f4-99a8-ae630ebe141e	ReferenceError: username is not defined
+20231011	10:22:55	71962e2c-561f-4fd5-8bfb-18962805574b	ReferenceError: username is not defined
+20231011	10:23:36	f9d6ea90-1479-43ca-bd73-e0221337cdbd	ReferenceError: username is not defined
+20231011	10:24:17	883e5f19-1077-4d15-a5db-478de052a831	ReferenceError: username is not defined
+20231011	10:25:39	bb5cb10d-4454-4df7-a265-d9ca2bd862e1	ReferenceError: username is not defined
+20231011	10:28:18	8e8e9a35-bb3b-45bd-a30b-06c71ad31cc2	ReferenceError: username is not defined
+20231011	10:32:43	bec6db3a-cd14-4564-80ef-a8d1e7a6f686	ReferenceError: username is not defined
